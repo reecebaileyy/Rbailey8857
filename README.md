@@ -1,5 +1,13 @@
-### 🤓 Hi there 🤓
-##  My name is Reece Bailey  
+###😎 What's up! 😎
+###My name is Reece Bailey and I enjoy building!
+--------------------------------------------
+Currently I am (a): 
+Ξ Developer for METASQUATCH
+Ξ Studying Blockchain Technology 
+Ξ Utilizing Solidity, C++, and Javascript
+--------------------------------------------
+
+
 
 <!--
 **Rbailey8857/Rbailey8857** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
