@@ -1,5 +1,4 @@
 ### 😎 What's up! 😎
-My name is Reece Bailey and I enjoy building!
 --------------------------------------------
 Currently I am (a): <br />
 Ξ Developer for METASQUATCH <br />
