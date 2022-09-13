@@ -1,5 +1,5 @@
-### Hi there 👋
-My name is Reece Bailey... I will finish this after dinner :p
+### 🤓 Hi there 🤓
+##  My name is Reece Bailey  
 
 <!--
 **Rbailey8857/Rbailey8857** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
