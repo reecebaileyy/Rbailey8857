@@ -1,10 +1,10 @@
 ### 😎 What's up! 😎
-### My name is Reece Bailey and I enjoy building!
+My name is Reece Bailey and I enjoy building!
 --------------------------------------------
-Currently I am (a): 
-Ξ Developer for METASQUATCH
-Ξ Studying Blockchain Technology 
-Ξ Utilizing Solidity, C++, and Javascript
+Currently I am (a): <br />
+Ξ Developer for METASQUATCH <br />
+Ξ Studying Blockchain Technology <br />
+Ξ Utilizing Solidity, C++, and Javascript <br />
 --------------------------------------------
 
 
