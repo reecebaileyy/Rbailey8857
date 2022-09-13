@@ -1,4 +1,4 @@
-### 😎 What's up! 😎
+😎 What's up! 😎
 --------------------------------------------
 Currently I am (a): <br />
 Ξ Developer for METASQUATCH <br />
