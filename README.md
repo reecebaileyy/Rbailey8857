@@ -1,5 +1,5 @@
 # 💫 About Me:
-What's up my name is Reece <br>--------------------------------<br>I am geek for learning new methods of development! Currently I <br>am a student at CSUF and the developer for METASQUATCH. <br><br>📖 Currently studying C++, Javascript and React.js<br>🗃 Expirenced in Smart Contract deployment<br>📝 Working on the METASQUATCH ecosystem<br>📍 Utilizing Node.js and Hardhat<br>😁 Always looking for feedback, suggestions or buisness opportunities<br><br><br><br><br><br>
+What's up my name is Reece :p <br>--------------------------------<br>I am geek for learning new methods of development! Currently I <br>am a student at CSUF and the developer for METASQUATCH. <br><br>📖 Currently studying C++, Javascript and React.js<br><br>🗃 Expirenced in Smart Contract deployment<br><br>📝 Working on the METASQUATCH ecosystem<br><br>📍 Utilizing Node.js and Hardhat<br><br>😁 Always looking for feedback, suggestions or buisness opportunities<br><br><br><br><br><br>
 
 
 # 💻 Tech Stack:
@@ -20,19 +20,3 @@ What's up my name is Reece <br>--------------------------------<br>I am geek for
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Rbailey8857&icon=8&color=3)](https://visitcount.itsvg.in)
-
-
-<!--
-**Rbailey8857/Rbailey8857** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
