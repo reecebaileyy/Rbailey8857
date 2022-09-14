@@ -3,7 +3,7 @@
 Currently I am (a): <br />
 Ξ Developer for METASQUATCH <br />
 Ξ Studying Blockchain Technology <br />
-Ξ Utilizing Solidity, C++, and Javascript <br />
+Ξ Utilizing Javascript, Solidity, and C++ <br />
 
 <!--
 **Rbailey8857/Rbailey8857** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
