@@ -1,5 +1,5 @@
 # 💫 About Me:
-What's up my name is Reece :p<br>--------------------------------<br>I am geek for learning new methods of development! Currently I<br>am a student at CSUF <br><br>📖 Currently studying Blockchain Technology, Computer Science, and Machine Learning<br><br>🧠 Fluent in Solidity, C++, and Javascript<br><br>🗃 Expirenced in Smart Contract creation deployment and debugging<br><br>📍 Utilizing Node.js and Hardhat<br><br>😁 Always looking for feedback, suggestions or collaborations<br>
+What's up my name is Reece :p<br>--------------------------------<br>I am geek for learning new methods of development! Currently I<br>am a student at CSUF <br><br>📖 Currently studying Blockchain Technology, Computer Science, and Machine Learning<br><br>🧠 Fluent in Solidity, C++, and Javascript<br><br>🗃 Expirenced in Smart Contract creation deployment and debugging<br><br>📍 Utilizing Node Package Manager and Hardhat<br><br>😁 Always looking for feedback, suggestions or collaborations<br>
 
 
 # 💻 Tech Stack:
