@@ -23,6 +23,10 @@ What's up my name is Reece :p<br>--------------------------------<br>I am geek f
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Rbailey8857&theme=onedark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rbailey8857&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+# 📄 Resume
+![My_Resume-1](https://user-images.githubusercontent.com/80913719/221331096-4992dffc-6874-4354-8bb3-18f1e91a73e9.png)
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Rbailey8857&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
