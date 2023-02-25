@@ -24,15 +24,6 @@ What's up my name is Reece :p<br>--------------------------------<br>I am geek f
 # 📄 Resume
 ![My_Resume-1](https://user-images.githubusercontent.com/80913719/221331096-4992dffc-6874-4354-8bb3-18f1e91a73e9.png)
 
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Rbailey8857&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
 ---
-[![](https://visitcount.itsvg.in/api?id=Rbailey8857&icon=8&color=0)](https://visitcount.itsvg.in)
